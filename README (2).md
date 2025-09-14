@@ -2,6 +2,7 @@
 
 A **Streamlit-based Marketing Intelligence Dashboard** that integrates marketing data from **Facebook, Google, TikTok**, and business KPIs into one unified platform.  
 It helps visualize spend, revenue, ROAS, funnel performance, and state-level insights in a clean dark-themed interface.
+Link to website: https://ahkvqmjgbarzg7stqoyad.streamlit.app
 
 ---
 
@@ -82,18 +83,6 @@ The dashboard will be available at:
 
 ---
 
-## 📸 Screenshots
-
-### Dashboard Overview
-*(add screenshot here)*
-
-### Performance Trends
-*(add screenshot here)*
-
-### Campaign Analysis
-*(add screenshot here)*
-
----
 
 ## 🧑‍💻 Author
 
